@@ -29,6 +29,6 @@ while true; do
     # --- Print status ---
     echo "Brightness: $BRIGHTNESSPERCENTAGE | WiFi: $WIFI | Volume: $VOLUME | Battery: $BAT% ($STATUS) | $(date +'%d.%m.%Y %X')"
 
-    sleep 5
+    sleep 1
 done
 
